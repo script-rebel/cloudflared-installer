@@ -1,5 +1,6 @@
 # Script Rebel's Cloudflared Installer 🚀
 
+![Script Rebel Logo](https://your-logo-url.com) <!-- Update with your logo URL -->
 
 ### A versatile and easy-to-use shell script to download and install **Cloudflared** on **Termux**, **Ubuntu/Kali Linux**, and **Windows (WSL)**.
 
@@ -40,3 +41,42 @@ This repository contains a shell script developed by **Script Rebel** for downlo
 
 ```bash
 git clone https://github.com/ScriptRebel/cloudflared-installer.git
+Step 2: Navigate to the directory
+bash
+Copy code
+cd cloudflared-installer
+Step 3: Make the script executable
+bash
+Copy code
+chmod +x install_cloudflared.sh
+Step 4: Run the script
+bash
+Copy code
+./install_cloudflared.sh
+🚀 Usage
+Select your platform from the menu.
+The script will download and install Cloudflared automatically.
+Once the installation is complete, follow the on-screen instructions to use Cloudflared on your selected platform.
+🛠️ Requirements
+Termux, Ubuntu/Kali Linux, or Windows with WSL.
+Internet connection to download Cloudflared.
+📸 Screenshots
+<!-- Add a screenshot link here -->
+
+🤝 Contributing
+We welcome contributions! If you'd like to help improve this project, please:
+
+Fork the repository
+Create a new branch (git checkout -b feature-branch)
+Commit your changes (git commit -m 'Add new feature')
+Push to the branch (git push origin feature-branch)
+Open a pull request
+📝 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Follow Script Rebel on YouTube:
+
+YouTube Channel
+Connect on GitHub:
+
+GitHub Profile
