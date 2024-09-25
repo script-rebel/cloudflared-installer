@@ -41,18 +41,26 @@ This repository contains a shell script developed by **Script Rebel** for downlo
 
 ```bash
 git clone https://github.com/ScriptRebel/cloudflared-installer.git
+
+
 Step 2: Navigate to the directory
 bash
 Copy code
 cd cloudflared-installer
+
+
 Step 3: Make the script executable
 bash
 Copy code
 chmod +x install_cloudflared.sh
+
+
 Step 4: Run the script
 bash
 Copy code
 ./install_cloudflared.sh
+
+
 🚀 Usage
 Select your platform from the menu.
 The script will download and install Cloudflared automatically.
