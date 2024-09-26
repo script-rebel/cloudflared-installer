@@ -71,7 +71,7 @@ Internet connection to download Cloudflared.
 
 ---
 📸 Screenshots
-<!-- Add a screenshot link here -->
+assets/Screenshot_2024-09-26-08-03-46-22_84d3000e3f4017145260f7618db1d683.jpg
 
 ---
 🤝 Contributing
