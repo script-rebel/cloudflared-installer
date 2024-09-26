@@ -68,9 +68,12 @@ Once the installation is complete, follow the on-screen instructions to use Clou
 🛠️ Requirements
 Termux, Ubuntu/Kali Linux, or Windows with WSL.
 Internet connection to download Cloudflared.
+
+---
 📸 Screenshots
 <!-- Add a screenshot link here -->
 
+---
 🤝 Contributing
 We welcome contributions! If you'd like to help improve this project, please:
 
@@ -84,7 +87,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Follow Script Rebel on YouTube:
 
-YouTube Channel:
-Connect on GitHub:
+# Connect with me
 
-GitHub Profile
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ScriptRebel)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/username)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/username)
