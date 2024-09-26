@@ -1,6 +1,6 @@
 # Script Rebel's Cloudflared Installer 🚀
 
-![Script Rebel Logo](https://your-logo-url.com) <!-- Update with your logo URL -->
+![Script Rebel Logo](https://github.com/script-rebel/cloudflared-installer/blob/9fb7a58165d9c9f9402bcee0ef84f4b73c0c9200/assets/IMG_20240925_154908_327.jpg)
 
 ### A versatile and easy-to-use shell script to download and install **Cloudflared** on **Termux**, **Ubuntu/Kali Linux**, and **Windows (WSL)**.
 
